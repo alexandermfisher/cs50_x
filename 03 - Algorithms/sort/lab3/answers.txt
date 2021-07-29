@@ -1,0 +1,13 @@
+sort1 uses:  Bubble Sort
+
+How do you know?: sort1 perfromed much better on an already sorted set compared to the reversed set. This is indictive that it is bubble 
+
+sort2 uses: Merge Sort
+
+How do you know?: It performs the best on average compared wth the other algorithms which implies it is most likely merge sort. 
+In addition, similarly to selection sort the performance is roughly the same across the differnet inputs which corresponds to an algorithm with 
+the same upper and lower bound time complexities.
+
+sort3 uses: Selection Sort
+
+How do you know?: It roughly performs the same independent of initial order which direcy indicates this must be selection sort.
